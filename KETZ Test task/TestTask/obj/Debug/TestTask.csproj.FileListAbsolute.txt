@@ -1,0 +1,7 @@
+C:\Азат\Работа\KETZ Test task\TestTask\bin\Debug\TestTask.exe.config
+C:\Азат\Работа\KETZ Test task\TestTask\bin\Debug\TestTask.exe
+C:\Азат\Работа\KETZ Test task\TestTask\bin\Debug\TestTask.pdb
+C:\Азат\Работа\KETZ Test task\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Азат\Работа\KETZ Test task\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Азат\Работа\KETZ Test task\TestTask\obj\Debug\TestTask.exe
+C:\Азат\Работа\KETZ Test task\TestTask\obj\Debug\TestTask.pdb
